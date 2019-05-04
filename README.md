@@ -3,6 +3,18 @@
 ## Présentation
 L’objectif de ce projet est de réaliser en langage C, Un jeu de **bataille de tanks**. Le but étant d’éliminer tous les tanks ennemis tout en protégeant le petit oiseau qu’on appellera le « Titi ».
 
+| Début |  Niveau de jeu |
+|:-:|:-:|
+| <img src="https://github.com/LeparouxTitouan/TankGame/blob/master/doc/Screenshot_01-Start.png" width="400" /> | <img src="https://github.com/LeparouxTitouan/TankGame/blob/master/doc/Screenshot_02-Level.png" width="400" /> |
+
+| Jeu |
+|:-:|
+| <img src="https://github.com/LeparouxTitouan/TankGame/blob/master/doc/Screenshot_03-Game.png" width="400" /> |
+
+| Jeu gagné | Jeu perdu |
+|:-:|:-:|
+| <img src="https://github.com/LeparouxTitouan/TankGame/blob/master/doc/Screenshot_04-End_Win.png" width="400" /> | <img src="https://github.com/LeparouxTitouan/TankGame/blob/master/doc/Screenshot_04-End_GameOver.png" width="400" /> |
+
 #### Lancer le jeu
 
 Le projet sera sous forme de zip qu’il faudra décompresser sur son espace de travail. Ce fichier zip contient un makefile et ce rapport. Pour lancer le projet, il faut se rendre sur le terminal, se placer sur le dossier `Projet/src` et taper la commande `make`. Ainsi, le projet s’exécutera.
